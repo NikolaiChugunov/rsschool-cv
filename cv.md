@@ -1,8 +1,8 @@
 # Junior Front-end developer
 
 ## Personal info
-**Name:** Nikolai Chugunov
-**Age:** 27 y.o.
+**Name:** Nikolai Chugunov  
+**Age:** 27 y.o.  
 **Location:** Russia, Samara Region, Togliatti
 
 **Contact Info:**
