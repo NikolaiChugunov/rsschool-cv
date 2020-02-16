@@ -18,11 +18,11 @@
 * Responsible, stress-tolerated, purposeful and sociable person.
 
 ## Skills
-**Methodologies:** RUP, SCRUM, Kanban;
-**Programming Languages:** Visual Basic.NET, C#.NET, T-SQL - intermediate, HTML, CSS/SASS/LESS, TypeScript, Javascript, PHP - novice;
-**Version control systems:** Git, SVN, TFSSVC;
-**Continuous integration/delivery:** Jetbrains TeamCity, Atlassian Bamboo, TFS;
-**Technologies and frameworks:** .NET Framework 4.7, LINQ, ASP.NET MVC, ASP.NET Web API, Microsoft SQL Server, Microsoft Entity Framework, JQuery, VueJS, KnockoutJS, Angular 7 (a bit);
+**Methodologies:** RUP, SCRUM, Kanban;  
+**Programming Languages:** Visual Basic.NET, C#.NET, T-SQL - intermediate, HTML, CSS/SASS/LESS, TypeScript, Javascript, PHP - novice;  
+**Version control systems:** Git, SVN, TFSSVC;  
+**Continuous integration/delivery:** Jetbrains TeamCity, Atlassian Bamboo, TFS;  
+**Technologies and frameworks:** .NET Framework 4.7, LINQ, ASP.NET MVC, ASP.NET Web API, Microsoft SQL Server, Microsoft Entity Framework, JQuery, VueJS, KnockoutJS, Angular 7 (a bit);  
 **Tools:** Microsoft Visual Stuio, Microsoft SQL Server Management Studio, Microsoft VSCode, Gulp, Yarn, Webpack, NuGet package Manager, MSTest, NUnit.
 
 ## Experience
