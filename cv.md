@@ -1,8 +1,8 @@
-# Junior Front-end developer
+# New Document# Junior Front-end developer
 
 ## Personal info
-**Name:** Nikolai Chugunov\
-**Age:** 27 y.o.\
+**Name:** Nikolai Chugunov  
+**Age:** 27 y.o.  
 **Location:** Russia, Samara Region, Togliatti
 
 **Contact Info**
@@ -22,11 +22,11 @@
 * Able to build and maintain productive communications with customers and teammates
 
 ## Skills
-**Methodologies:** RUP, SCRUM, Kanban;\
-**Programming Languages:** Visual Basic.NET, C#.NET, T-SQL - *intermediate*, HTML, CSS/SASS/LESS, TypeScript, Javascript, PHP - *novice*;\
-**Version control systems:** Git, SVN, TFSSVC;\
-**Continuous integration/delivery:** Jetbrains TeamCity, Atlassian Bamboo, TFS;\
-**Technologies and frameworks:** .NET Framework 4.7, LINQ, ASP.NET MVC, ASP.NET Web API, Microsoft SQL Server, Microsoft Entity Framework, Splunk, JQuery, VueJS, KnockoutJS, Angular 7 (a bit);\
+**Methodologies:** RUP, SCRUM, Kanban;  
+**Programming Languages:** Visual Basic.NET, C#.NET, T-SQL - *intermediate*, HTML, CSS/SASS/LESS, TypeScript, Javascript, PHP - *novice*;  
+**Version control systems:** Git, SVN, TFSSVC;  
+**Continuous integration/delivery:** Jetbrains TeamCity, Atlassian Bamboo, TFS;  
+**Technologies and frameworks:** .NET Framework 4.7, LINQ, ASP.NET MVC, ASP.NET Web API, Microsoft SQL Server, Microsoft Entity Framework, Splunk, JQuery, VueJS, KnockoutJS, Angular 7 (a bit);  
 **Tools:** Microsoft Visual Stuio, Microsoft SQL Server Management Studio, Microsoft VSCode, Gulp, Yarn, Webpack, NuGet package Manager, MSTest, NUnit
 
 ## Experience
@@ -56,5 +56,5 @@ Togliatti State Univerity, Institute of Mathematics, Physics and Information Tec
 * Basic WCF mentoring - *2017*
 
 ## English
-**Speaking:** B1;\
+**Speaking:** B1;  
 **Writing:** B1+
