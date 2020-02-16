@@ -39,6 +39,21 @@
 2. *August 2017 - October 2019* - public site of famous Russian insurance company, development and support business-logic service using Microsoft .NET Framework and SQL Server and UI using HTML, LESS, JS and KnockoutJS;
 3. *March 2017 - August 2017* - corporate system of underwriting of CASCO agreements, using Microsoft .NET Framework and AngularJS
 
+**Code example**
+```javascript
+const deepMapKeys = (obj, f) =>
+  Array.isArray(obj)
+    ? obj.map(val => deepMapKeys(val, f))
+    : typeof obj === 'object'
+      ? Object.keys(obj).reduce((acc, current) => {
+        const val = obj[current];
+        acc[f(current)] =
+          val !== null && typeof val === 'object' ? deepMapKeys(val, f) : (acc[f(current)] = val);
+        return acc;
+      }, {})
+      : obj;
+```
+
 ## Education
 ### School
 * **Primary school:** Gymnasium №48, Togliatti - *2000 - 2005*;
