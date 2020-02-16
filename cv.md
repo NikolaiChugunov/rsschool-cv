@@ -1,4 +1,4 @@
-# New Document# Junior Front-end developer
+# Junior Front-end developer
 
 ## Personal info
 **Name:** Nikolai Chugunov  
