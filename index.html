@@ -4,33 +4,48 @@
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" href="style/main.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <title>Junior Front-end developer</title>
 </head>
 
 <body>
   <header>
-    <h1>Junior Front-end developer</h1>
+    <h1>
+      <i class="fa fa-vcard-o"></i>
+      Junior Front-end developer
+    </h1>
     <hr>
   </header>
   <main>
     <section class="personal-info">
-      <h2>Personal info</h2>
-      <hr>
-      
       <img src="img/portrait.jpg" width="200" height="200">
-      <ul>
-        <li>Name: Nikolai Chugunov</li>
-        <li>Age: 27 y.o.</li>
-        <li>Russia, Samara Region, Togliatti</li>
+      <h2>
+        <i class="fa fa-user-secret"></i>
+        Personal info
+      </h2>
+      <hr>
+      <ul class="no-discs">
+        <li><strong>Name:</strong> Nikolai Chugunov</li>
+        <li><strong>Age:</strong> 27 y.o.</li>
+        <li><strong>Location:</strong> Russia, Samara Region, Togliatti</li>
       </ul>
       
       <h3>Contacts</h3>
-      <ul>
-        <li>Email: nikolay.chugunov.tlt@gmail.com;</li>
-        <li>Phone: +7 (937) 238-13-82;</li>
-        <li>Skype: nikolay.chugunov.developer</li>
+      <ul class="no-discs">
+        <li>
+          <i class="fa fa-envelope"></i>
+          <span>nikolay.chugunov.tlt@gmail.com;</span>
+        </li>
+        <li>
+          <i class="fa fa-phone"></i>
+          <span>+7 (937) 238-13-82;</span>
+        </li>
+        <li>
+          <i class="fa fa-send"></i>
+          <span>@nikolay_chugunov</span>
+        </li>
       </ul>
-      <p>
+      <p id="goal">
         <strong>Goal:</strong>
         <span>Get Junior Front-end Software Engineer position at EPAM</span>
       </p>
@@ -48,13 +63,16 @@
     </section>
 
     <section class="skills">
-      <h2>Skills</h2>
+      <h2>
+        <i class="fa fa-cogs"></i>
+        Skills
+      </h2>
       <hr>
       
       <ul>
         <li>Methodologies: RUP, SCRUM, Kanban;</li>
-        <li>Programming Languages: Visual Basic.NET, C#.NET, T-SQL - intermediate, HTML, CSS/SASS/LESS, TypeScript,
-          Javascript, PHP - novice;</li>
+        <li>Programming Languages: Visual Basic.NET, C#.NET, T-SQL - <em>intermediate</em>, HTML, CSS/SASS/LESS, TypeScript,
+          Javascript, PHP - <em>novice;</em></li>
         <li>Version control systems: Git, SVN, TFSSVC;</li>
         <li>Continuous integration/delivery: Jetbrains TeamCity, Atlassian Bamboo, TFS;</li>
         <li>Technologies and frameworks: .NET Framework 4.7, LINQ, ASP.NET MVC, ASP.NET Web API, Microsoft SQL Server,
@@ -65,55 +83,61 @@
     </section>
     
     <section class="experience">
-      <h2>Experience</h2>
+      <h2>
+        <i class="fa fa-tachometer"></i>
+        Experience
+      </h2>
       <hr>
       
       <h3>Overview</h3>
       <ul>
-        <li>Middle C#/.NET Software Engineer - EPAM Systems Inc. (Togliatti) - from December 2017 till now</li>
-        <li>Junior C#/.NET Software Engineer - EPAM Systems Inc. (Togliatti) - from March 2017 till December 2017</li>
+        <li>Middle C#/.NET Software Engineer - EPAM Systems Inc. (Togliatti) - <em>from December 2017 till now</em>;</li>
+        <li>Junior C#/.NET Software Engineer - EPAM Systems Inc. (Togliatti) - <em>from March 2017 till December 2017</em></li>
       </ul>
       
       <h3>Past Projects</h3>
       <ol>
         <li>
-          October 2019 - now - corporate electronic document management system,
+          <em>October 2019 - now</em> - corporate electronic document management system,
           building web app using Angular 7 and Microsoft .NET Framework;
         </li>
         <li>
-          August 2017 - October 2019 - public site of famous Russian insurance company,
+          <em>August 2017 - October 2019</em> - public site of famous Russian insurance company,
           development and support business-logic service using Microsoft .NET Framework and SQL Server and UI using HTML,
           LESS, JS and KnockoutJS;
         </li>
         <li>
-          March 2017 - August 2017 - corporate system of underwriting of CASCO agreements,
+          <em>March 2017 - August 2017</em> - corporate system of underwriting of CASCO agreements,
           using Microsoft .NET Framework and AngularJS
         </li>
       </ol>
     </section>
    
     <section class="education">
-      <h2>Education</h2>
+      <h2>
+        <i class="fa fa-graduation-cap"></i>
+        Education
+      </h2>
       <hr>
       
       <h3>School</h3>
       <ul>
-        <li>Primary school:Gymnasium №48, Togliatti - 2000 - 2005</li>
-        <li>High school: School №93, Togliatti - 2005 - 2009</li>
+        <li>Primary school: Gymnasium №48, Togliatti - <em>2000 - 2005</em>;</li>
+        <li>High school: School №93, Togliatti - <em>2005 - 2009</em></li>
       </ul>
 
       <h3>Professional Education</h3>
-      <span>Togliatti Polytechnical College, "Computer Software And Automated Systems" - 2009 - 2013</span>
+      <span>Togliatti Polytechnical College, "Computer Software And Automated Systems" - <em>2009 - 2013</em></span>
 
       <h3>Higher Education</h3>
       <span>Togliatti State Univerity, Institute of Mathematics, Physics and Information Technology, “Applied Informatics
-        (bachelor)” - 2013 - 2018</span>
+        (bachelor)” - <em>2013 - 2018</em></span>
 
       <h3>Courses</h3>
       <ul id="courses-list">
-        <li>School of Information Technology, Togliatti, "Software Engineering" - 2008-2012;</li>
-        <li>.NET Mentoring for L1 - 2017;</li>
-        <li>Basic WCF mentoring - 2017</li>
+        <li>School of Information Technology, Togliatti, "Software Engineering" - <em>2008-2012</em>;</li>
+        <li>.NET Mentoring for L1 - <em>2017;</em></li>
+        <li>Basic WCF mentoring - <em>2017</em></li>
       </ul>
     </section>
     
